@@ -1,5 +1,5 @@
 {
-  "serviceName": "CDP Node.js Prototype Template",
+  "serviceName": "ps-test-prototype1",
   "plugins": {
     "govuk-frontend": {
       "rebrand": true
